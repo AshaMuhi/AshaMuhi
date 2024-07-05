@@ -1,7 +1,5 @@
 # Welcome to My GitHub Profile! 👋
 
-![Header Image](https://your-image-url.com/header-image.jpg)
-
 ## About Me
 
 Hello! I'm Asha, a passionate data scientist with expertise in machine learning, data analysis, and data visualization. I love turning raw data into actionable insights and building predictive models.
